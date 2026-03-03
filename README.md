@@ -47,4 +47,6 @@ The objective is to identify high-risk areas, monitor monthly financial leakage 
 
 ## 📷 Dashboard Preview
 
+![Employee Productivity Dashboard](dashboard-preview.png)
+
 
